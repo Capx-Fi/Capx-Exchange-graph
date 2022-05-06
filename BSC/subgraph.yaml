@@ -4,11 +4,11 @@ schema:
 dataSources:
   - kind: ethereum/contract
     name: Exchange
-    network: bsc
+    network: chapel
     source:
-      address: "0x9148B64Da26d572290EE1C461A733f7857FAA599"
+      address: "0x2E579d09a1E20B726Ad59C285Ffb64EC563C02c6"
       abi: Exchange
-      startBlock: 15054230
+      startBlock: 16399609
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.5
