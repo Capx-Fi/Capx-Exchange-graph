@@ -48,7 +48,7 @@ This query fetches aggregated data from all orders created on the protocol.
 ### Binance Smart Chain (BSC)
 | Contract Name     | Contract Address  |
 |---------------------|--------------------------------------------------------------------|
-| Exchange   | [0x463CdDd0f76C8bd7E70A73cdA1b9da2bcaB64FB1](https://bscscan.com/address/0x463CdDd0f76C8bd7E70A73cdA1b9da2bcaB64FB1)	 |
+| Exchange   | [0x9148B64Da26d572290EE1C461A733f7857FAA599](https://bscscan.com/address/0x9148B64Da26d572290EE1C461A733f7857FAA599)	 |
 
 ### Matic (Polygon)
 | Contract Name     | Contract Address  |
